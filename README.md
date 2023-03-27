@@ -1,5 +1,4 @@
-# Spring Boot Kafka Example - The Practical Developer
-
+# Spring Boot Kafka Example -
 ## Basic configuration
 
 This sample application shows how to use basic Spring Boot configuration to set up a producer to a topic with multiple partitions and a consumer group with three different consumers.
